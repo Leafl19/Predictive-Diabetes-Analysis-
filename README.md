@@ -35,9 +35,11 @@ This project analyzes the relationship between various health indicators (Glucos
 - **BMI Impact**: Higher BMI is associated with a higher chance of diabetes, but the correlation is weaker than for glucose levels.
   **BP**: While higher blood pressure is associated with diabetes, its predictive power is weaker compared to glucose and age
 
-## Recommendations to Prevent getting Diabetes 
+## Recommendations 
 **Target High-Risk Groups**: Focusing on older patients with high glucose and BMI levels to prevent diabetes.
- **Promote Health Screenings**: Encouraging routine health check-ups to monitor glucose levels, especially in patients over 50 years old.
+
+**Promote Health Screenings**: Encouraging routine health check-ups to monitor glucose levels, especially in patients over 50 years old.
+
  **Dietary and Lifestyle Changes**: Weight management programs for patients with elevated BMI to reduce the risk of getting diabetes
 
 
