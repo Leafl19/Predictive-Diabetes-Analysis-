@@ -22,10 +22,10 @@ This project analyzes the relationship between various health indicators (Glucos
   
   
 - **Scatter Plot** : Showing Gluclose v BMI and the outcome based off the two indicstors
-(https://github.com/user-attachments/assets/965b740d-573f-4ae1-9df8-6e3516e6b87e)
+![Sheet 3](https://github.com/user-attachments/assets/11531520-0e05-460b-879f-bd2cafce325b)
 
 **Diabetes outcomes based on Age**: This shows what age group in this dataset were either diabetic or Non-Diabetic 
-(https://github.com/user-attachments/assets/5747a0ec-dcec-4da0-a077-0a5911b4e15e)
+
 
 
 ## Key Findings and Insights
