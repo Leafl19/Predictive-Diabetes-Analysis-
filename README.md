@@ -7,7 +7,7 @@ This project analyzes the relationship between various health indicators (Glucos
 
 **Data**: [Cleaned dataset](https://github.com/user-attachments/files/17175934/cleaned_healthcare_diabetes_dataset_v5.copy.csv)
 
- **Scripts**: SQL queries for the data cleaning, analysis, and visualizations
+ **Scripts**: SQL queries for the data cleaning, analysis [Here]
  
  **Visualizations/**: [Tableau Dashboard](https://public.tableau.com/views/Book2_17275470263770/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
