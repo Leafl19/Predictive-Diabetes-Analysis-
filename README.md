@@ -26,16 +26,18 @@ This project analyzes the relationship between various health indicators (Glucos
 
 **Diabetes outcomes based on Age**: This shows what age group in this dataset were either diabetic or Non-Diabetic 
 
+![Sheet 4](https://github.com/user-attachments/assets/5d3fcbbc-17a3-4552-8278-2bc2fc63b071)
 
 
 ## Key Findings and Insights
-- **Glucose Levels**: Diabetic patients have significantly higher glucose levels compared to non-diabetic patients. 
+- **Glucose Levels**: Patients with elevated glucose levels are at the highest risk of developing diabetes.
 - **Age and Diabetes**: Older patients have a higher likelihood of being diabetic compared to younger patients.
 - **BMI Impact**: Higher BMI is associated with a higher chance of diabetes, but the correlation is weaker than for glucose levels.
+  **BP**: While higher blood pressure is associated with diabetes, its predictive power is weaker compared to glucose and age
 
-## Recommendations
-**Target High-Risk Groups**: Focus interventions on older patients with high glucose and BMI levels to prevent diabetes.
- **Promote Health Screenings**: Encourage routine health check-ups to monitor glucose levels, especially in patients over 50 years old.
- **Dietary and Lifestyle Changes**: Weight management programs for patients with elevated BMI to reduce the risk of diabetes.
+## Recommendations to Prevent getting Diabetes 
+**Target High-Risk Groups**: Focusing on older patients with high glucose and BMI levels to prevent diabetes.
+ **Promote Health Screenings**: Encouraging routine health check-ups to monitor glucose levels, especially in patients over 50 years old.
+ **Dietary and Lifestyle Changes**: Weight management programs for patients with elevated BMI to reduce the risk of getting diabetes
 
 
