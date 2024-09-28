@@ -5,7 +5,7 @@ This project analyzes the relationship between various health indicators (Glucos
 
 **Structure of Analysis**:
 
-**data**:
+**data**: 
 
  **scripts**: SQL queries for the data cleaning, analysis, and visualizations
  
