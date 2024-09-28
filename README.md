@@ -14,6 +14,8 @@ This project analyzes the relationship between various health indicators (Glucos
 
 ## Key Visualizations
 - **Bar chart**: Showing AVG Glucose,BMI,BP,AGE by Diabetes Outcome
+  [Here](https://github.com/user-attachments/assets/a9a89d58-4516-4743-91db-ed7f92efdade)
+
   
 - **Average Glucose by Outcome**: A bar chart showing the average glucose levels for diabetic and non-diabetic patients. [Here](https://github.com/user-attachments/assets/df285ba8-cc30-4706-9450-9443bb73d0f6)
   
