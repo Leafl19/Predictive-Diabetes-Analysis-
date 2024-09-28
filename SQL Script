@@ -1,0 +1,87 @@
+Here is my SQL scrip on how i found my insights to make my analysis 
+
+for the table part insert the name of the table you chose to make it in your SQL
+
+-- 1. Average Glucose Levels by Diabetes Outcome
+SELECT 
+    Outcome, 
+    AVG(Glucose) AS avg_glucose
+FROM insert the table name you name it
+GROUP BY Outcome;
+
+-- 2. Average BMI by Diabetes Outcome
+SELECT 
+    Outcome, 
+    AVG(BMI) AS avg_bmi
+FROM insert the table name you name it
+GROUP BY Outcome;
+
+-- 3. Average Blood Pressure by Diabetes Outcome
+SELECT 
+    Outcome, 
+    AVG(BloodPressure) AS avg_blood_pressure
+FROM insert the table name you name it
+GROUP BY Outcome;
+
+-- 4. Average Age by Diabetes Outcome
+SELECT 
+    Outcome, 
+    AVG(Age) AS avg_age
+FROM your_table
+GROUP BY Outcome;
+
+-- 5. Count of Patients by Diabetes Outcome (Diabetic vs. Non-Diabetic)
+SELECT 
+    Outcome, 
+    COUNT(*) AS total_patients
+FROM insert the table name you name it
+GROUP BY Outcome;
+
+-- 6. Glucose Distribution by Outcome
+SELECT 
+    Glucose, 
+    Outcome, 
+    COUNT(*) AS count
+FROM insert the table name you name it
+GROUP BY Glucose, Outcome
+ORDER BY Glucose;
+
+-- 7. Count of Diabetic and Non-Diabetic Patients by Age Group
+-- Create age groups: Under 30, 30-50, and Above 50
+SELECT 
+    CASE 
+        WHEN Age < 30 THEN 'Under 30'
+        WHEN Age BETWEEN 30 AND 50 THEN '30-50'
+        ELSE 'Above 50'
+    END AS Age_Group,
+    Outcome,
+    COUNT(*) AS count
+FROM insert the table name you name it 
+GROUP BY Age_Group, Outcome
+ORDER BY Age_Group;
+
+-- 8. BMI Distribution by Outcome
+SELECT 
+    BMI, 
+    Outcome, 
+    COUNT(*) AS count
+FROM insert the table name you name it 
+GROUP BY BMI, Outcome
+ORDER BY BMI;
+
+-- 9. Detailed Summary for Glucose, BMI, Age, and Blood Pressure
+SELECT 
+    Outcome, 
+    AVG(Glucose) AS avg_glucose, 
+    AVG(BMI) AS avg_bmi, 
+    AVG(Age) AS avg_age, 
+    AVG(BloodPressure) AS avg_blood_pressure,
+    MIN(Glucose) AS min_glucose, 
+    MAX(Glucose) AS max_glucose,
+    MIN(BMI) AS min_bmi, 
+    MAX(BMI) AS max_bmi,
+    MIN(Age) AS min_age, 
+    MAX(Age) AS max_age,
+    MIN(BloodPressure) AS min_bp, 
+    MAX(BloodPressure) AS max_bp
+FROM insert the table name you name it GROUP BY Outcome;
