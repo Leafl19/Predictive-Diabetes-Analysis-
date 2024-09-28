@@ -14,8 +14,10 @@ This project analyzes the relationship between various health indicators (Glucos
 
 ## Key Visualizations
 - **Bar chart**: Showing AVG Glucose,BMI,BP,AGE by Diabetes Outcome
-- **Average Glucose by Outcome**: A bar chart showing the average glucose levels for diabetic and non-diabetic patients.
-- **Scatter Plo** : Showing Gluclose v BMI and the outcome based off the two indicstors 
+- **Average Glucose by Outcome**: A bar chart showing the average glucose levels for diabetic and non-diabetic patients. [Here](https://github.com/user-attachments/assets/df285ba8-cc30-4706-9450-9443bb73d0f6)
+  
+- **Scatter Plot** : Showing Gluclose v BMI and the outcome based off the two indicstors
+[Here]
 
 ## Key Findings and Insights
 - **Glucose Levels**: Diabetic patients have significantly higher glucose levels compared to non-diabetic patients. 
