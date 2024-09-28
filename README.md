@@ -5,11 +5,11 @@ This project analyzes the relationship between various health indicators (Glucos
 
 **Structure of Analysis**:
 
-**data**: [Cleaned dataset](https://github.com/user-attachments/files/17175934/cleaned_healthcare_diabetes_dataset_v5.copy.csv)
+**Data**: [Cleaned dataset](https://github.com/user-attachments/files/17175934/cleaned_healthcare_diabetes_dataset_v5.copy.csv)
 
- **scripts**: SQL queries for the data cleaning, analysis, and visualizations
+ **Scripts**: SQL queries for the data cleaning, analysis, and visualizations
  
- **visualizations/**: Tableau Dashboard
+ **Visualizations/**: [Tableau Dashboard](https://public.tableau.com/views/Book2_17275470263770/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Key Visualizations
